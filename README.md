@@ -1,6 +1,6 @@
-# flutter_webstore
+# Flutter WebStore UI
 
-A new Flutter project.
+Flutter web Project
 
 ## Getting Started
 
